@@ -10,6 +10,7 @@ Unlike most alchemy effects, Ravage Health can stack with itself additively if m
 The Fortify Health effect used can be of any strength as long as you still have health remaining after applying the Ravage Health effects. The Fortify Health effect must be applied before the Ravage Health effects. Once both effects are applied, you should **not** die. At this point, you can look at an object so that the Activate prompt appears, then load any other save. The save you load, or the "destination save," will be the one that activates what you are looking at. During the loading screen, the UI will disappear and the death music will play. Once this happens, press the activate button or mash it until the load ends. If done correctly, the object will be activated once the load completes.
 
 Here's a simple way to perform this bug at level 1:
+
 - Get Andurs' Amulet of Arkay from his quest in the Whiterun Hall of the Dead
 - Collect 50 Scathecraw **or** 34 Congealed Putrescence
 - Look at the item/door/object you wish to interact with in the destination save
