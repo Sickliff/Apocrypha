@@ -34,3 +34,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/Sickliff/Apocrypha
+  extra_files:
+    - CNAME
+
+
