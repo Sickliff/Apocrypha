@@ -1,4 +1,4 @@
-# Welcome to my realm.
+# Home Page
 
 This is **Apocrypha**, where all knowledge is hoarded. 
 
