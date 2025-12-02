@@ -1,0 +1,53 @@
+/* =========================================== */
+/* DESKTOP-ONLY HEADER CUSTOMIZATION (≥ 960px) */
+/* =========================================== */
+
+@media (min-width: 960px) {
+
+    .md-header {
+    position: relative;
+    }
+
+    /* Position the logo absolutely inside that column */
+    .md-header__button.md-logo {
+    position: absolute;
+    left: 8px;     /* inset from the edge */
+    top: 55%;
+    transform: translateY(-50%);
+    width: 64px;    /* adjust as desired */
+    height: 64px;
+    }
+
+    /* Grow the header content area to make room for the logo */
+    .md-header__inner {
+    padding-left: 80px;   /* 64 + spacing */
+    }
+
+    /* Grow the tabs so they avoid the logo */
+    .md-tabs {
+    padding-left: 102px;
+    }
+
+    /* Enlarge the logo */
+    .md-header__button.md-logo img {
+    width: 80px;          /* Adjust this number to taste */
+    height: auto;
+    }
+
+    /* Create space between logo and title */
+    .md-header__title {
+    margin-left: 2.0rem;    /* Shift title to the right */
+    margin-top: 0.5rem;   /* Shift title downward */
+    }
+
+    /* Optionally enlarge the title */
+    .md-header__title > .md-header__ellipsis {
+    font-size: 1.5rem;    /* Tune this value as you like */
+    font-weight: 700;
+    }
+
+}
+
+/* ========================================== */
+/*          END DESKTOP-ONLY STYLES           */
+/* ========================================== */
