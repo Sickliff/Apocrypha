@@ -59,7 +59,7 @@ Morokei may sometimes carry 2 copies of the Staff of Magnus.
 Halldir will drop his staff as an item upon death, while you can still loot a copy from his ashes.
 
 #### Blade of Woe
-If you pickpocket Astrid's Blade of Woe using Misdirection before the sanctuary is attacked, you will still get the copy of it during her black sacrament. You can also achieve this without Misdirection by giving her a different weapon with higher DPS (not including enchantment strength), then entering combat with her and surrendering immediately. You should then be able to pickpocket the Blade of Woe, as she equipped the other weapon.
+If you pickpocket Astrid's Blade of Woe using Misdirection before the sanctuary is attacked, you will still get the copy of it during her black sacrament. You can also achieve this without Misdirection by giving her a different weapon with higher DPS (not including enchantment strength), then entering combat with her and surrendering immediately. She will equip the stronger weapon, and you should be able to pickpocket the Blade of Woe provided she didn't see you assault her.
 
 #### Diadem of the Savant
 The Diadem of the Savant is supposed to be a reward for completing the Labyrinthian. However, a respawning copy can be found on a stump outside Froki's Shack.
