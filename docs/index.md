@@ -8,15 +8,13 @@ For discussion, visit the [Apocrypha Discord](https://discord.gg/rnE4ZttgsJ).
 
 Thanks for helping us document Skyrim's shame!
 
-### How to add a new page
+### How to add/edit page
 
-1. Fork the [repository](https://github.com/Sickliff/Apocrypha).
-2. Create a new `.md` file inside the appropriate category in `docs/`. (Example: `docs/glitches/New_Glitch.md`)
-3. Write your article using Markdown.
-4. Commit and push to your fork.
-5. Open a Pull Request back to the `main` branch.
+1. Download a page from the [repository](https://github.com/Sickliff/Apocrypha) or create a new `.md` file. (Example: `New_Glitch.md`)
+2. Edit the article or write your own in Markdown format.
+3. Upload it to `#apocrypha-wiki` in the Apocrypha Discord and ping @Sickliff.
 
-Navigation is generated automatically based on folder structure, you don't need to edit `mkdocs.yml`.
+Alternatively, you can fork the repository and submit a pull request to the `main` branch with your changes.
 
 ### Article Format
 
