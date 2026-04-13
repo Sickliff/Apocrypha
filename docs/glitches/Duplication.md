@@ -1,5 +1,5 @@
 # Duplication
-**Duplication**, or **duping**, is the process of creating extra copies of an item. There a few methods have been discovered over the years which achieve this.
+**Duplication**, or **duping**, is the process of creating extra copies of an item. Many methods have been discovered over the years which achieve this with numerous items.
 
 ## Follower Dupe
 
